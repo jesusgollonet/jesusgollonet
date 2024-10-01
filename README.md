@@ -10,7 +10,7 @@ I'm a Technical Director and Software Engineer based in Málaga, Spain, with ove
 When AFK:
 - 🚴 I’m a skateboarder, BMX rider, surfer, (and SUPper, and Skimboarder... the list keeps growing!) and love spending time outdoors with my family
 - 🏕️ Recently discovered a love for Camping
-- 🌍 Getting into Geography, Oceanography, 
+- 🌍 Getting into Geography, Oceanography.
 
 Looking to connect, collaborate, or share ideas? Feel free to reach out!
 
