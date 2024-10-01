@@ -1,15 +1,16 @@
 ### Hi, I'm Jesus Gollonet 👋
 
-I'm a Technical Director and Software Engineer based in Málaga, Spain, with over 15 years of experience working on websites, apps, and interactive installations for global brands. I build things that blend creativity and technology.
+I'm a Technical Director and Software Engineer based in Málaga, Spain, with over 15 years of experience working on websites, apps, and interactive installations for global brands. I build things that blend technology, creativity, outdoors and fitness.
 
-- 🔧 Currently exploring **Python**, **computer vision** and **Ddata science** technologies
-- 🌊 Working on a personal project to detect swell and wave conditions using **Python**, **OpenCV**, and **Docker**
-- 💻 Proficient in **backend development**, **Node.js**, and **cloud infrastructure** (**Pulumi**, **Terraform**, **Docker**, **AWS**, **Google Cloud Run**)
+- 💻 Proficient in **backend development**, **Node.js**, **Typescript**, **devops** and **cloud infrastructure** (**Pulumi**, **Terraform**, **Docker**, **AWS**, **Google Cloud Run**)
+- 🔧 Currently exploring **Python**, **computer vision** and **data science** after attending the [Recurse Center](https://recurse.com) last Summer
+- 🌊 Working on a few prototypes to understand and detect swell and wave conditions using **Python**, **OpenCV**, and **Docker**
 - 🛠 Passionate about optimizing workflows and building efficient, AI-assisted development pipelines
 
-Outside of work:
-- 🚴 I’m an avid BMX rider, surfer, and love spending time outdoors with my family
-- 🌍 Interested in coastal geomorphology, especially as it relates to surfing
+When AFK:
+- 🚴 I’m a skateboarder, BMX rider, surfer, (and SUPper, and Skimboarder... the list keeps growing!) and love spending time outdoors with my family
+- 🏕️ Recently discovered a love for Camping
+- 🌍 Getting into Geography, Oceanography, 
 
 Looking to connect, collaborate, or share ideas? Feel free to reach out!
 
