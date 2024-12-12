@@ -1,18 +1,17 @@
 ### Hi, I'm Jesus Gollonet 👋
 
-I'm a Technical Director and Software Engineer based in Málaga, Spain, with over 15 years of experience working on websites, apps, and interactive installations for global brands. I build things that blend technology, creativity, outdoors and fitness.
+I'm a Technical Director and Software Engineer based in Málaga, Spain, with over 15 years of experience working on websites, apps, and interactive installations for global brands. I build things that blend technology and creativity
 
 - 💻 Proficient in **backend development**, **Node.js**, **Typescript**, **devops** and **cloud infrastructure** (**Pulumi**, **Terraform**, **Docker**, **AWS**, **Google Cloud Run**)
 - 🔧 Currently exploring **Python**, **computer vision** and **data science** after attending the [Recurse Center](https://recurse.com) last Summer
 - 🌊 Working on a few prototypes to understand and detect swell and wave conditions using **Python**, **OpenCV**, and **Docker**
-- 🛠 Passionate about optimizing workflows and building efficient, AI-assisted development pipelines
 
 When AFK:
 - 🚴 I’m a skateboarder, BMX rider, surfer, (and SUPper, and Skimboarder... the list keeps growing!) and love spending time outdoors with my family
 - 🏕️ Recently discovered a love for Camping
 - 🌍 Getting into Geography, Oceanography.
 
-Looking to connect, collaborate, or share ideas? Feel free to reach out!
+Always happy to connect with folks!
 
 [LinkedIn](https://www.linkedin.com/in/jesusgollonet) | [Website](https://jesusgollonet.com)
 
